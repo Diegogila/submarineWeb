@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^20.7.3"
+    "puppeteer": "^20.7.3",
+    "readline-sync": "^1.4.10"
   },
   "name": "puppeter",
   "version": "1.0.0",
   "main": "main.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
